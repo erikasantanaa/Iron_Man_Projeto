@@ -1,0 +1,53 @@
+
+/*foto fundo da tela*/
+body{
+    background-image: url(img/fundo_escuro.JPEG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+a{
+    font-size: 20px; 
+    font-family: 'Marvel', sans-serif;
+}
+a:visited{
+    color:  khaki;
+}
+
+p{
+    color: khaki;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    font-family: 'Marvel', sans-serif;
+    font-size: 20px;
+
+}
+h1{
+    text-align: center;
+    color: rgb(241, 155, 42);
+    font-family: 'Marvel', sans-serif;
+}
+h3{
+    text-align: center;
+    color: yellow;
+    font-family: 'Marvel', sans-serif;
+}
+
+
+.imagem-carrossel{
+    object-fit: cover;
+    object-position: 5px 30%;
+    height: 550px;
+}
+/*para listas e a*/
+.veja{
+    margin: 10px;
+    text-align: center;
+    list-style-type: none;
+    font-family: 'Marvel', sans-serif;
+    
+}
+
